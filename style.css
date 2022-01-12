@@ -22,7 +22,7 @@
 .paragraph {
   margin-right: 10px;
   text-align: center;
-  font-size: 20px;  
+  font-size: 20px;
 }
 
 .media {
@@ -31,7 +31,7 @@
   margin-right: 100px;
 }
 
- ul {
+ul {
   display: flex;
   gap: 20px;
   list-style-type: none;
@@ -58,8 +58,8 @@ body {
   font-family: sans-serif;
 }
 
-.welcome{
-  display:flex;
+.welcome {
+  display: flex;
   margin-top: 20px;
 }
 
@@ -68,5 +68,4 @@ header {
   justify-content: space-between;
   align-items: baseline;
   margin-right: 20px;
-
 }

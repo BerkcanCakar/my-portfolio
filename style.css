@@ -1,65 +1,64 @@
 nav {
-    display: flex;
-    justify-content: space-between;
-    margin-right: 20px;
-  }
-  
-  .main-section {
-    background-image: url(./images/background.svg);
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    height: 1000px;
-    padding-top: 100px;
-  }
-  
-  .main-section span {
-    color: rgb(0, 191, 126);
-  }
-  
-  .greetings {
-    color: rgb(23, 43, 77);
-    font-size: 35px;
-    text-align: center;
-  }
-  
-  .paragraph {
-    font-size: 20px;
-    text-align: center;
-  }
-  
-  .media {
-    color: rgb(118, 132, 255);
-    text-align: center;
-    margin-right: 100px;
-  }
-  
-  .social-media ul {
-    display: flex;
-    gap: 20px;
-    list-style-type: none;
-    justify-content: center;
-    padding-right: 50px;
-  }
-  
-  .down-button {
-    border: 2px solid lightgray;
-    border-radius: 50%;
-    height: 36px;
-    width: 36px;
-    background-position: 50%;
-    background-repeat: no-repeat;
-    background-image: url(./images/down\ button.svg);
-    margin-right: 30px;
-    margin-top: 30px;
-  }
-  
-  body {
-    box-sizing: content-box;
-    width: 100%;
-    height: 1000px;
-    font-family: sans-serif;
-  }
-  
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+
+.main-section {
+  background-image: url(./images/background.svg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 1000px;
+  padding-top: 100px;
+}
+
+.main-section span {
+  color: rgb(0, 191, 126);
+}
+
+.greetings {
+  color: rgb(23, 43, 77);
+  font-size: 35px;
+  text-align: center;
+}
+
+.paragraph {
+  font-size: 20px;
+  text-align: center;
+}
+
+.media {
+  color: rgb(118, 132, 255);
+  text-align: center;
+  margin-right: 100px;
+}
+
+.social-media ul {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+  justify-content: center;
+  padding-right: 50px;
+}
+
+.down-button {
+  border: 2px solid lightgray;
+  border-radius: 50%;
+  height: 36px;
+  width: 36px;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-image: url(./images/down\ button.svg);
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+body {
+  box-sizing: content-box;
+  width: 100%;
+  height: 1000px;
+  font-family: sans-serif;
+}

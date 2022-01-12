@@ -42,6 +42,7 @@ nav {
   list-style-type: none;
   justify-content: center;
   padding-right: 50px;
+  align-items: flex-end;
 }
 
 .down-button {

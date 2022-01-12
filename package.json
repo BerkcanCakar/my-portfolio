@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BerkcanCakar/my-portfolio/issues"
   },
-  "homepage": "https://github.com/BerkcanCakar/my-portfolio#readme"
+  "homepage": "https://github.com/BerkcanCakar/my-portfolio#readme",
+  "devDependencies": {
+    "hint": "^6.1.9"
+  }
 }

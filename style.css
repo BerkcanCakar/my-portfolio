@@ -1,8 +1,4 @@
-nav {
-  display: flex;
-  justify-content: space-between;
-  margin-right: 20px;
-}
+
 
 .main-section {
   background-image: url(./images/background.svg);
@@ -54,7 +50,6 @@ nav {
   background-repeat: no-repeat;
   background-image: url(./images/down\ button.svg);
   margin-right: 30px;
-  margin-top: 30px;
 }
 
 body {
@@ -62,4 +57,17 @@ body {
   width: 100%;
   height: 1000px;
   font-family: sans-serif;
+}
+
+.welcome{
+  display:flex;
+  margin-top: 20px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-right: 20px;
+
 }

@@ -6,7 +6,7 @@
   flex-direction: column;
   align-items: center;
   height: 1000px;
-  padding-top: 100px;
+  padding-top: 100px; 
 }
 
 .main-section span {
@@ -69,3 +69,5 @@ header {
   align-items: baseline;
   margin-right: 20px;
 }
+
+

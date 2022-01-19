@@ -6,7 +6,7 @@
   flex-direction: column;
   align-items: center;
   height: 1000px;
-  padding-top: 100px;
+  padding-top: 100px; 
 }
 
 .main-section span {
@@ -48,7 +48,7 @@ ul {
   background-position: 50%;
   background-repeat: no-repeat;
   background-image: url(./images/down\ button.svg);
-  margin-right: 30px;
+  
 }
 
 body {
@@ -68,4 +68,9 @@ header {
   justify-content: space-between;
   align-items: baseline;
   margin-right: 20px;
+}
+
+
+.a{
+  text-align: center;
 }
